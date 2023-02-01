@@ -1,6 +1,6 @@
 # crud menggunakan nodejs dan mysql
 
-- npm i express
+- <code>npm i express</code>
 - npm i mysql2
 - npm i sequelize
 - npm i cors
