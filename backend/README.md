@@ -1,9 +1,9 @@
 # crud menggunakan nodejs dan mysql
 
 - <code>npm i express</code>
-- npm i mysql2
-- npm i sequelize
-- npm i cors
-- npm i -g nodemon
+- <code>npm i mysql2</code>
+- <code>npm i sequelize</code>
+- <code>npm i cors</code>
+- <code>npm i -g nodemon</code>
 
 <code>nodemon index.js</code>
